@@ -1,0 +1,4 @@
+src/com/Main.java
+*.iml
+assets
+.idea
